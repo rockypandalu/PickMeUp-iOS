@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E8F0AC5E1CB87DFE0070B316"
+               BlueprintIdentifier = "E89408051CB9830E00F2D502"
                BuildableName = "PickMeUp.app"
                BlueprintName = "PickMeUp"
                ReferencedContainer = "container:PickMeUp.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E8F0AC741CB87DFF0070B316"
+               BlueprintIdentifier = "E894081B1CB9830E00F2D502"
                BuildableName = "PickMeUpTests.xctest"
                BlueprintName = "PickMeUpTests"
                ReferencedContainer = "container:PickMeUp.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E8F0AC7F1CB87DFF0070B316"
+               BlueprintIdentifier = "E89408261CB9830E00F2D502"
                BuildableName = "PickMeUpUITests.xctest"
                BlueprintName = "PickMeUpUITests"
                ReferencedContainer = "container:PickMeUp.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8F0AC5E1CB87DFE0070B316"
+            BlueprintIdentifier = "E89408051CB9830E00F2D502"
             BuildableName = "PickMeUp.app"
             BlueprintName = "PickMeUp"
             ReferencedContainer = "container:PickMeUp.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8F0AC5E1CB87DFE0070B316"
+            BlueprintIdentifier = "E89408051CB9830E00F2D502"
             BuildableName = "PickMeUp.app"
             BlueprintName = "PickMeUp"
             ReferencedContainer = "container:PickMeUp.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8F0AC5E1CB87DFE0070B316"
+            BlueprintIdentifier = "E89408051CB9830E00F2D502"
             BuildableName = "PickMeUp.app"
             BlueprintName = "PickMeUp"
             ReferencedContainer = "container:PickMeUp.xcodeproj">

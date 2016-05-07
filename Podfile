@@ -1,5 +1,11 @@
-use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+pod 'GoogleMaps'
 
-target 'PickMeUp' do
-pod 'UberRides'
-end
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'AWSCore'
+pod 'AWSDynamoDB'
+pod 'AWSEC2'
+pod 'AWSMobileAnalytics'
+pod 'AWSS3'
+pod 'AWSCognito'
